@@ -2,7 +2,7 @@
 
 A modern, interactive web dashboard designed to display detailed statistics for Leetcode users. This application allows users to visualize key performance metrics such as total problems solved, acceptance rates, and difficulty distribution. The dashboard is built using **vanilla JavaScript**, **Tailwind CSS**, **ApexCharts**, and **Chart.js** for dynamic data visualization and a seamless user experience.
 
-![alt text](image-1.png)
+/home/bhagwan/leetmetric/image.png
 
 - **Real-time Leetcode Statistics**: Provides detailed information on Leetcode user stats, including:
   - Total problems solved
